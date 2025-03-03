@@ -5,6 +5,9 @@ temp
 backup
 .cache
 
+# 大体积运行环境目录
+bin
+
 # 依赖安装目录
 node_modules
 
