@@ -1,4 +1,4 @@
-import type { PartOfSpeechKeys } from "./mod/class"
+import type { PartOfSpeechKeys } from "./mod/classify"
 
 interface Relative {
   /* 词根 */
