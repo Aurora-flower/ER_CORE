@@ -27,30 +27,30 @@
  */
 const Month = {
   /* Jan */
-  1: 'January',
+  1: "January",
   /* Feb */
-  2: 'February',
+  2: "February",
   /* Mar */
-  3: 'March',
+  3: "March",
   /* Apr */
-  4: 'April',
+  4: "April",
   /* May */
-  5: 'May',
+  5: "May",
   /* Jun */
-  6: 'June',
+  6: "June",
   /* Jul */
-  7: 'July',
+  7: "July",
   /* Aug */
-  8: 'August',
+  8: "August",
   /* Sep | Sept */
-  9: 'September',
+  9: "September",
   /* Oct */
-  10: 'October',
+  10: "October",
   /* Nov */
-  11: 'November',
+  11: "November",
   /* Dec */
-  12: 'December'
-};
+  12: "December"
+}
 
 /**
  * @summary 星期
@@ -62,19 +62,19 @@ const Month = {
  */
 const Week = {
   /* Mon */
-  1: 'Monday',
+  1: "Monday",
   /* Tue */
-  2: 'Tuesday',
+  2: "Tuesday",
   /* Wed */
-  3: 'Wednesday',
+  3: "Wednesday",
   /* Thu | Thur */
-  4: 'Thursday',
+  4: "Thursday",
   /* Fri */
-  5: 'Friday',
+  5: "Friday",
   /* Sat */
-  6: 'Saturday',
+  6: "Saturday",
   /* Sun */
-  7: 'Sunday'
-};
+  7: "Sunday"
+}
 
-export { Month, Week };
+export { Month, Week }
